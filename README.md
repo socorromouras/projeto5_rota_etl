@@ -83,12 +83,7 @@ Esse projeto corresponde a última fase do bootcamp "Jornada de Dados" da Labora
 
 ---
 
-- **🔗Links de interesse:**
-    - **Report** - [**LINK**](https://www.canva.com/design/DAGrLlbqUl8/YymYoX7SsHm04IZzzTqvzg/view?utm_content=DAGrLlbqUl8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h229f5a605d)
-    - **Apresentação** **Vídeo** - Loom - [**LINK**](https://www.loom.com/share/0b47cd90f19d411bb0a2479640b260f6?sid=724b3c64-2427-43bc-98ee-d2b90dab2270)
-    - Pré-processamentos - Colab - [**LINK**](https://colab.research.google.com/drive/197KmDsDNQjx69fK8C18y3pubkdeRrCY-?usp=sharing)
-    - Apresentação **Slides** - Google - [**LINK**](https://docs.google.com/presentation/d/1G0QkbNVSawZ18NB3iG1LDH89gP_2Q4fu/edit?usp=sharing&ouid=112139985510828764174&rtpof=true&sd=true)
-    - Documentação - [**LINK**](https://docs.google.com/document/d/1sjPFGlOw0Jvfone7gm9QVOWnRIItEke2Je_x6tHOPxg/edit?usp=sharing)
+- **🔗Links de interesse:**  
 - **RELATÓRIO** - [Link](https://www.canva.com/design/DAGsDiF4GI0/ZNa1fdHdc83-9UpAkV5Qfg/view?utm_content=DAGsDiF4GI0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h40d09a42b0)
 - Apresentação - Slides - [Link](https://docs.google.com/presentation/d/1Au0cPppyrUjsxSu5cg05aX0yrAHZMCWV_XhSMFRv5O4/edit?usp=sharing)
 - Documentação - [Link](https://docs.google.com/document/d/1iilD5HPSJPigssfxwgxgj9hF1iSnVasBSZ0mJBz878c/edit?usp=sharing)
