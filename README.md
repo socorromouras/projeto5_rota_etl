@@ -87,3 +87,4 @@ Esse projeto corresponde a última fase do bootcamp "Jornada de Dados" da Labora
 - **RELATÓRIO** - [Link](https://www.canva.com/design/DAGsDiF4GI0/ZNa1fdHdc83-9UpAkV5Qfg/view?utm_content=DAGsDiF4GI0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h40d09a42b0)
 - Apresentação - Slides - [Link](https://docs.google.com/presentation/d/1Au0cPppyrUjsxSu5cg05aX0yrAHZMCWV_XhSMFRv5O4/edit?usp=sharing)
 - Documentação - [Link](https://docs.google.com/document/d/1iilD5HPSJPigssfxwgxgj9hF1iSnVasBSZ0mJBz878c/edit?usp=sharing)
+- Apresentação - Loom - [Link](https://www.loom.com/share/033d99834c684a6bae3ac1fdc5ae7d87)
